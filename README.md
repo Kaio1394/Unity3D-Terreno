@@ -27,5 +27,6 @@ Criação de terrenos de forma manual no Unity3D
   ![image](https://user-images.githubusercontent.com/62676087/153897284-1720080a-612c-4ed3-8e76-8a26de9aaa4f.png)
   
   - Para nivelar a altura do relevo, com a opção "Paint Terrain" selecionadoa mude a opção "Raise or Lower Terrain" para "Set Height".
+  - Para suavizar o terreno, selecione "Smoth Height"
 
   
